@@ -1,0 +1,1 @@
+No Content: https://redisa.dev/src/components/DecodeAnimationCharacter.tsx
